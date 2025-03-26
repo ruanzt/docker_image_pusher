@@ -1,2 +1,2 @@
-mysql/mysql:5.7.43
-redis
+mysql:5.7.43
+redis:7.0.13
