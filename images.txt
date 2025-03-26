@@ -1,2 +1,2 @@
-rustdesk/rustdesk-server:latest
-pgvector/pgvector:0.7.4-pg16
+redis/redis:7.0.13
+mysql/mysql:5.7.43
